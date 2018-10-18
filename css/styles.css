@@ -1,0 +1,25 @@
+body
+{
+  font-size: 40pt;
+}
+#btn {
+    
+}
+
+#btn {
+  font-size: 100px;
+  font-family: Florence, cursive;
+  display: inline-block;
+  color: white;
+  font-weight: 700;
+  text-decoration: none;
+  user-select: none;
+  padding: .5em 2em;
+  outline: none;
+  border: 2px solid;
+  border-radius: 1px;
+  transition: 0.6s;
+} 
+#btn:hover { background: rgba(255,255,255); }
+#btn:active { background: white; }
+#btn:active { background: BLACK; }
